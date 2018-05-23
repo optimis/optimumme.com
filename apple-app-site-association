@@ -1,0 +1,23 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+        {
+          "appID": "75YPV78L8R.com.optimiscorp.optimumme.rc",
+          "paths": ["/signup/*"]
+        },
+        {
+          "appID": "75YPV78L8R.com.optimiscorp.optimumme.mock",
+          "paths": ["/signup/*"]
+        },
+        {
+          "appID": "F97D2E7E45.com.optimisservice.optimumme",
+          "paths": ["/signup/*"]
+	},
+	{
+	  "appID": "75YPV78L8R.com.optimiscorp.optimumme.react",
+	  "paths": ["/signup/*"]
+	}
+    ]
+  }
+}
